@@ -1,0 +1,102 @@
+div h1 {
+    font-family: Open Sans;
+    font-size: 70px;
+    font-weight: 300;
+    line-height: 72px;
+    text-align: right;
+    color: aliceblue;
+}
+#subtitle {
+    font-family: "Reddit Mono", monospace;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+color: aliceblue;
+}
+h2 {
+    font-family: Open Sans;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    color: #5B6460;
+}
+h3 {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: left;
+    color: black;
+}
+header {
+text-align: justify;
+width: 1408px;
+height: 100px;
+gap: 0px;
+}
+div {
+width: 1600px;
+height: 701px;
+top: 100px;
+gap: 0px;
+}
+h4 {
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 30px;
+text-align: left;
+color: #5B6460;
+}
+h4:active {
+    color: black;
+}
+header button {
+color: rgba(255, 255, 255, 1); 
+background-color: rgba(91, 100, 96, 1); 
+width: 200px; 
+height: 200px; 
+right: 32px; 
+font-family: DIN; 
+font-style: normal; 
+font-weight: 300; 
+font-size: 14px; 
+line-height: 28px;
+}
+.link:hover {
+        background-color: #808E88; 
+}
+.link:visited {
+    background-color: #2a3a33;
+}
+.logo {
+    width: 70.26px;
+height: 65.1px;
+top: 18px;
+left: 146px;
+padding: 0px;
+gap: 0px;
+}
+a {
+    font-family: DIN;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+}
+nav {
+width: 541px;
+height: 25px;
+top: 38px;
+left: 458px;
+gap: 0px;
+}
+header nav {
+    display: inline-block;
+}
+header li{
+    display: inline-block;
+}
